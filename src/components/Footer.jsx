@@ -13,7 +13,7 @@ const Footer = () => {
         </div>
 
         <div className="w-[80%] md:w-[30%] lg:w-[25%]">
-          <h1 className="text-xl font-semibold text-gray-400 dark:text-gray-200 mb-3">Legal Business Name:</h1>
+          <h1 className="text-xl font-semibold dark:text-gray-200 mb-3">Legal Business Name:</h1>
           <p className="text-base text-gray-500 dark:text-gray-400">
             Kindkarma E-Retail Private Limited
             <br />
